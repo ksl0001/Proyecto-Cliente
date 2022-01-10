@@ -1141,7 +1141,7 @@ nav.main-menu {
 	vertical-align: middle;
 }
 
-.main-menu ul>li:nth-child (6) {
+.main-menu ul>li:nth-child(6) {
 	padding-right: 0px;
 }
 
@@ -1764,7 +1764,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .about .titlepage span {
-	color: # 3d3c3c;
+	color: #3d3c3c;
 	font-size: 17px;
 	line-height: 30px;
 }
@@ -1809,7 +1809,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 
 .service .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .service .service-box figure {
@@ -1951,7 +1951,7 @@ img.zoom {
 }
 
 .download .titlepage span {
-	color: # 3d3c3c
+	color: #3d3c3c
 }
 
 .download .titlepage h2 {
