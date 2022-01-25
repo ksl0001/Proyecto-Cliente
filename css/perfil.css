@@ -52,6 +52,15 @@ body{
     box-shadow: none!important;
 }
 
-#area-bio{
+.non-editable{
+    border: 0px;
+}
+
+textarea{
     resize: none;
 }
+
+.non-editable:focus{
+    outline: none;
+}
+
